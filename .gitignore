@@ -1,0 +1,14 @@
+fine_tuned_model/
+fine_tuned_model_v2/
+fine_tuned_model_v3/
+
+test_fine_tuned_model/
+test_fine_tuned_model_v3/
+
+results/
+results_test/
+
+generate_pdf
+
+*.md
+mal_geo_ner/*.md
